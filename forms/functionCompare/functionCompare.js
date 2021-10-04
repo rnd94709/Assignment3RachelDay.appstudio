@@ -1,3 +1,4 @@
+
 password = prompt("Enter your password:")
 secondPassword = prompt("Re-enter your password:")
 

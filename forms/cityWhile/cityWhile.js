@@ -1,3 +1,4 @@
+
 let userCity = []
 let addAnotherCity = "Yes"
 let i = 0
@@ -14,5 +15,3 @@ while (i < userCity.length) {
     console.log(userCity[i])
     i++
     }
-
-    

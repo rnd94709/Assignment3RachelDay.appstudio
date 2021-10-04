@@ -1,3 +1,4 @@
+/*
 let userCity = []
 let addAnotherCity = "Yes"
 let i = 0
@@ -15,4 +16,4 @@ while (i < userCity.length) {
     i++
     }
 
-    
+*/
